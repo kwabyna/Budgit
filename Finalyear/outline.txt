@@ -1,0 +1,51 @@
+Tabs:
+
+Find Price
+Compare Price
+To be decided
+Theme
+
+Find Price:
+    search button to search item
+    Display results
+        Name, Price, Store , Link
+
+    ( The goal is to provide a link to the items. Making it easy for people)
+
+###New
+Add price filter
+refresh for database
+Search suggestions
+Show option based on item
+
+Compare:
+
+
+Settings:
+
+
+Themes
+    Choose between a couple of themes
+
+Databse:
+
+Company
+    Amazon
+        Product
+        Price
+        Link
+    Tonaton
+        Product
+        Price
+        Link
+    Jiji
+        Product
+        Price
+        Link
+    Best Buy
+        Product
+        Price
+        Link
+
+python path:
+C:\Users\Kwabyna-Work\AppData\Roaming\Python
